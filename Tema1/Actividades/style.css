@@ -1,0 +1,29 @@
+header {
+    background-color: blanchedalmond;
+
+}
+li {
+    background-color: cadetblue;
+    display: inline;
+}
+
+#navegacion {
+    background-color: aquamarine;
+}
+
+#barralateral {
+    background-color: darkseagreen;
+    float: left;
+    height: 1000px;
+}
+
+#pie {
+    background-color: aquamarine;
+    clear: both;
+}
+
+#contenidoPrincipal {
+    background-color: honeydew;
+    margin-left: 220px;
+    padding-top: 20px;
+}
